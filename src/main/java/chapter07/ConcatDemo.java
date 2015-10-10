@@ -6,7 +6,6 @@ public class ConcatDemo {
 		String secondString = " a concatenated string.";
 		String thirdString = firstString + secondString;
 		System.out.println(thirdString);
-		
 				
 	}
 }
