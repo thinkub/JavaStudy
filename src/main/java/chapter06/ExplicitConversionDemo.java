@@ -7,5 +7,8 @@ public class ExplicitConversionDemo {
 		
 		float a = (float)100.0;
 		int b = (int)100.0f;
+		byte c = (byte)128;
+		
+		System.out.println(c);
 	}
 }

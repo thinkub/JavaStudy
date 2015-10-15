@@ -2,7 +2,7 @@ package main.java.chapter09;
 
 public class Condition2Demo {
 	public static void main(String[] args) {
-		if(true) {
+		if(false) {
 			System.out.println(1);
 			System.out.println(2);
 			System.out.println(3);

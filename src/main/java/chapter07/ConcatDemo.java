@@ -6,6 +6,14 @@ public class ConcatDemo {
 		String secondString = " a concatenated string.";
 		String thirdString = firstString + secondString;
 		System.out.println(thirdString);
+		
+		String a = "This is ";
+		int b = 11;
+		String c = a + b;
+		
+		System.out.println(c);
+		
+		System.out.println(String.valueOf('A') + 24);
 				
 	}
 }

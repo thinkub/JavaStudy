@@ -6,5 +6,6 @@ public class EqualDemo {
 		System.out.println(1 == 1);
 		System.out.println("one" == "two");
 		System.out.println("one" == "one");
+		System.out.println('A' == 65);
 	}
 }

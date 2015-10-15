@@ -11,6 +11,6 @@ public class DivisionDeom {
 		System.out.println(a/b);
 		System.out.println(c/d);
 		System.out.println(a/d);
-				
+		
 	}
 }

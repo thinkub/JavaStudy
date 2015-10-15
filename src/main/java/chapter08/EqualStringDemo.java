@@ -13,5 +13,11 @@ public class EqualStringDemo {
 		
 		System.out.println(c == d);
 		System.out.println(c.equals(d));
+		
+		String aa = new String("Hello World");
+		String bb = new String("Hello World");
+		
+		System.out.println(aa == bb);
+		
 	}
 }
